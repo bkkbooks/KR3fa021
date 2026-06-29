@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/743
+seq: 743
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:00413ad71aa4b978427e5ab52d1a9f86b4e78cd2064f2d347ce41af8c27b341b

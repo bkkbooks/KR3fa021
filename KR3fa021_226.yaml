@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法則能起二百九十八萬五千九百八十四斤之重曾照此法造小輪架以為引重其長不及二尺其濶深不及一尺內有三等輪與三軸彼此相通相撥獨用一絲繩以轉動之而拉重物勝于數十人之力焉其所以然之故則詳見所論重學諸題
+  hash: sha256:9a195a0c073507e6876e350e5bb1f5a13c8b907726f323cd186eeba2cccf4ceb
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:efd79edb022fe77a7675b7b287385b36cf3aebb77e1f4f30b29cbbbac0367cb2

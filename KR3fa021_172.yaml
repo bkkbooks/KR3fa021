@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/172
+seq: 172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 每一分又平分或四見十五圖或六或十等細分故每一度或有二百四十或三百六十或六百等細分而每細分當算度分之幾秒焉此言細分度之法也如論分時刻之法前代之儀分晝夜一百刻每時八刻零有三分刻之一其為不合乎天巳詳辨於不得巳辨新曆曉惑諸書中雖其所分一刻極細者止三十六分巳耳今之新儀分晝夜以九十六刻每時八刻並無奇零又每一刻十五分見十一圖每一分以對角線之比例為十二分而細分之則每一分當十秒而一刻共九百秒是比之舊儀細之又細矣
+  hash: sha256:dcc7e4faab6c126e8acec83ca8983b57e24d83cad1e989e86d93b26c9e5c88ae
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:9b807fb115ad4692cfbdcb987b8ad0e7d536aa760dd55f18bebd636fd7eb2354

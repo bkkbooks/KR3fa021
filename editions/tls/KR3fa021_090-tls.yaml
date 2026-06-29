@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/90
+seq: 90
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 橫入于環出入展縮以進退樞令就合于垂線也座架四傍上下無所隔礙窺測者從立軸以左右旋轉甚便周視也
+  hash: sha256:752291a5d88c2b55f21feeb6da52b5fcdc521fe905865cc4a6664bd5dbfcf236
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:0e4bda4bff16426053f8e1d1eccad88eae5b44870ad802a87c82f9b4d7595b0e

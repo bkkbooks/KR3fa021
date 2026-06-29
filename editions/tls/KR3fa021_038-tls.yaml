@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一卷新製六儀黃道經緯全儀赤道經緯全儀地平經儀象限儀紀限儀天體儀
+  hash: sha256:fe4931fb4cef4f8e3800c0db61096c42c480f3eb15ea082c405cee16094bb4b9
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:27ad3383136d42174e11cce9660b021b4de6ec4aa00ed3a8385ad71a0c1a4123

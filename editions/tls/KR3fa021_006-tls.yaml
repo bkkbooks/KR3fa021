@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上下層次及遠近相距一定之度列宿諸行之細微與夫七曜各有本道而諸道各有南北不同之兩極又各有本道所行各與地遠近與其行最低最高之處皆各有定期又皆各有本體一定之度分五緯各有遲疾順逆諸行之不同亦有留而不行之定日凡此象數萬端難以測量之際要皆恃儀象而爲之準則焉故作厯者舍測候之儀而欲求厯之明効大驗蔑由也是以稽厯者必以儀爲依據
+  hash: sha256:52118d03764eb19fb08c26102c75becb448ac35888bfeaa8f62afa964b62a62d
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:0a66c654c310e37a09b3dfa44348bbb1708597024e10607cc5fd728ef3505f00

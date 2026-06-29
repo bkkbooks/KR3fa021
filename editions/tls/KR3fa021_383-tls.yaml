@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/383
+seq: 383
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右監副劉蘊德筆受治理厯法極西南懷仁纂著春官正孫有本詳受秋官正徐瑚詳受天體儀恒星出入表天文家公論恒星各有其本性之騐其出入地坪時因隨他曜有善惡之相照而其所見之效遂雜糅而不純以故天象之多變易也因設此表以其居四正黃道之度比之而定其與他曜互相照之象焉所謂四正者卽相交于子午卯酉四向之黃道度二十分內之界也
+  hash: sha256:54eb4a531437ac0acfec5051b89c16ef484c5e517a3606468ff696e3d0d5fb67
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:6943564f5e25dcd90d684484bb0485cafc815b1b86ddcd540e45e41e3085cc53

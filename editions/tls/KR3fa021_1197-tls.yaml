@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/1197
+seq: 1197
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新製靈臺儀象志卷之十二右監副劉蘊德筆受治理厯法極西南懷仁纂著春官正孫有本詳受秋官正徐瑚詳受赤道儀表自初度至一百七十九度
+  hash: sha256:ff1ba7f1ebc0bcf31162616ea2a780bf20cf4452648760263384ff8f1efc9b6d
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:717853b03d30c1e550c31d983b873c249bc1484dbfe3c54940b14a7b28984fa5

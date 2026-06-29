@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/799
+seq: 799
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃赤二儀互相推測度分表黃赤二儀互相推測度分者何以黃道儀測各星之經緯度立爲表而推各星之赤道經緯度以赤道儀測各星之經緯度立爲表而推各星之黃道經緯度也其表有二一以赤道經度爲主一以緯度爲主縱橫兩行所列者黃道經緯度也中兩行相遇之方內赤道相應經緯之度也其赤道經度皆從春分起算若黃赤兩儀所測之度分或過與不及則用中比例法以推定之其查表法與查他表無異
+  hash: sha256:1928fa7f43e04a330a8f6473fc89bd299dc08a48e8678d0d884730b4fc3b43b9
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:e68f086e75af0eda8aff15f898cb3e3058a458611e157163c998d23cb2b46a86

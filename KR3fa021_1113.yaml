@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/1113
+seq: 1113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新製靈臺儀象志卷之十一從九品頂帶天文生席以恭治理厯法極西南懷仁纂著博士李穎謙同受從九品頂帶天文生張文臣黃道儀表青星宮至娠訾宮
+  hash: sha256:62adf3a626f4e22386efd5db7838bb5b0e03b19859957fa305999b9709ddbd8b
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:60e8a3d5704d7d7c2b45e4fe9e98813e8477e0ee3142c2065eadb7f02ad4dde1

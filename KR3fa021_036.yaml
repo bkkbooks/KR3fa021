@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三日奉旨厯法天文關係大典據奏儀象告成製造精密南懷仁殫心料理勤勞可嘉著從優議叙具奏餘著一併議奏該知道書圖併發
+  hash: sha256:461768bbd322a52ed266a5fa1d81cadc25f50b78b9762bdaeeb944c79fbb44ea
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:b88ba0ce7711b4d3a171e5de7f150ee2d55e5f18041cbb0cc6ed7c7050402a7c

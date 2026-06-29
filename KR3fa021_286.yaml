@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/286
+seq: 286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 測地經緯及方向表
+  hash: sha256:ce2410226335b92a7fb66819c27f6f5a4abc65419b6b17948cc6a219af1dbc35
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:d7abdddba9879056bd9830dbce7e5a40654ddb69c91e19b72f385e5d6ad05dec

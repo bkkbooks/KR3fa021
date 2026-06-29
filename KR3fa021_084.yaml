@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 但既厚且寬則必過重而難以轉動又轉動時則沉重而壓磨于地平上所劃度數之細分故特用螺柱管其中心與地平之中心少起橫表之兩端使之空懸于中而不令其磨損地平之靣云
+  hash: sha256:111856c9d75ad1a6eb83732f873c2556e7668a223090cb6e71dbc7b61076aa31
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:770a2fb6a53c8de55a737fcf7014ff4abb5f1f7e277a051cc33836098198d3d8

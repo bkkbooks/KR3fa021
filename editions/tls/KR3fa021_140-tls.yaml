@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/140
+seq: 140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 互相交角係若干度分一測黃道升降度分一測某星同黃道何度分出入地平一測某星同黃道何度分在天中黃道經緯儀之用一測七政諸星黃道經緯度一測黃赤二道相距度分一測黃道子午圈互相交角係度分若干一測某星赤道經緯度一測黃赤二道緯圈于某星互相交角係若干度分一測赤道緯圈于黃道經圈互相交角係度分若干一測兩星互相距度分一測黃道緯圈于赤道經圈互相交角係度分若干一測某星同黃道何度分出入地平
+  hash: sha256:27ea408280915ba8fef120c2b62901f6d60201ff512ae7f659ba068b96865d6b
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:4681d061ceb6a17e422974e1af79949ccaa0665699a7e1aabcfd33276cb76d37

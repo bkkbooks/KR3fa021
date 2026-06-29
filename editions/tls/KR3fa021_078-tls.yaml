@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交梁而兩梁又以斜角相交其四角則有四獅以相負而又各有螺柱以定之諸類皆詳於黃道儀解內兹不復贅其安對之法則以天頂之垂線爲定也
+  hash: sha256:c231467072f70cbcdfa87948bde8cfd1b33e46670f65afa972f292380077c58c
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:040eab9786e61c0eb4e93dc7af0dff4f329133c5587ece0aea6476b77a9468cf

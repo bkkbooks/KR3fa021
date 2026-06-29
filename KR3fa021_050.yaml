@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第六卷地平儀表北極出地二十二度至三十度第七卷地平儀表北極出地三十二度至三十九度五十五分第八卷黃赤二儀相互推測度分表自降斐官至最訾官第九卷黃赤二儀相互推測度分表自未官至申官第十卷
+  hash: sha256:675e70cdc707d44f778f2adfb709fa2dbc2e18f8d68d3f77f0891ae3735d1184
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:ed922c9cea3be98dd5a4b3a121debd99df0520e1c27ee455e727dae350cfae7c

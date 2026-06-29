@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/332
+seq: 332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 氣水等差表氣水差者即光及物象從氣入水而斜透水內高度之差也所謂水氣差者即光從水入氣而斜透則氣內高度之差也氣玻璃差及水玻璃差等俱倣此皆以光離天頂之遠近為主假使太陽離天頂線四十度氣水差表內相對為三十度其相差者乃十度也水氣差表內相對之度為五十一度其差則十一度也氣玻璃差表內相對之度為二十五度則所差為十五度也其餘倣此
+  hash: sha256:8009eccd642e554de00654401f23846b952a5c95be5a19cef344bd51a7ea3e5f
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:18e3982e8057bf9353ae3a33081284014c8b1f788b33dcc56b589bd4d3707a1b

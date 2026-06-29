@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/1379
+seq: 1379
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東魚星傳説星背宿南星皆在六等之外所稱㣲茫難見者用鏡窺之則魚星列次之遠皆一一見焉若天漢相傳爲白氣其實皆數之小星也從古天文家大都以可見可測之星求其形似連合而爲象因象而命之命以爲識別然名星之左右上下雖有可見之小星然共象㣲光不甚顯難以凖測其度分次以相近名星之比例可推而定焉今照法另列黃赤二道經緯表而屬之以相近之星座又以其次第分別之亦可以備夫渾天儀之作法而眾星之今象具昭於斯安有不快足乎窺天者之心目哉
+  hash: sha256:08f06dae97024eddf678af3ed69a168ba130bd40cd5d1e2f8f2c572f0f08e85a
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:ddf03095e893253d644901850552bcc86837040f71627919c2404e006fc2c8af

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十四與八十二此爲再加之比例故天體之所劃星宿度數之周面較元之渾天約大一倍若就徑而推兩儀之體所容載則用三加之比例卽元儀之體所容載較新儀如四十四與一百十二云
+  hash: sha256:17149f48bd5002d3d353c9707a86a763b360d57de31ef056ef8c2118b796edc6
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:0fa316486cbfb53cedd65bde04550cac9cd1e46c2eb4259f6afa40812ba9e8ef

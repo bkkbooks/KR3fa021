@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/381
+seq: 381
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 厘其垂線為小圈相連之銅鎖縣垂線之長短其重之分兩又埀球之分兩皆須預知而凖定使毫不差失而器於是乎全巳
+  hash: sha256:fa3d1e6e864cbeaae105c15703711d471dd15eb7397103c4f75aa6bb6ad93e5c
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:22b0b51d159213c7efa3b61c8955c5846b4a29971f5a1142ffda49560b6fb9d5

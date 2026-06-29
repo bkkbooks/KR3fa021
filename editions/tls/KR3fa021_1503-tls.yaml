@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/1503
+seq: 1503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天漢界限表天漢在第八重列宿之天而其運動則正第八重之運動焉以廣面爲界旁過二極斜絡於天體猶之黃赤等大圈平分之爲而若論其體乃天體內無數之㣲星耳星因㣲小其光不能映射人目如諸大星又因其稠宻故覺所見之㣲光或成白道或如白河之象也云爾欲測其廣則無定數大約兩至之外廣於兩至之中從天津星又分爲二至尾宿復合爲一今以黃道經緯度略定其廣面上下兩界庻可用以繪總星圖及天地之體象焉
+  hash: sha256:bc4756fbbc667629ad0058b9dd3f0916d8a7bf98a47500d2828913af3aa94ca2
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:5c1e29565c0f98551ee950a0cf165fd342ed32820fd988e1a1f6a84b9b6e8920

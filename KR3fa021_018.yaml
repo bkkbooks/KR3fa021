@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 線長周面闊也則度數易分而分秒之微亦易見然其體巨則勢必不能輕巧而若少用其銅亦作徑長面濶之形則又必薄弱而不適於宜矣故特舉輕重學之數法并五金堅固之理以詳其用焉然諸儀應天道之度分南北兩樞又列春秋二分冬夏二至先後皆有常期黃赤二道地平天頂子午過極過至過分諸圈彼此相交於一點細微之內而各道各圈之中心又必同歸於一天體之中心而
+  hash: sha256:b720f610176a4e6d82a4bfaef4e781c14a555a273d5658d2e2353bd3fa2c0b48
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:02225d1890ecc3becf4e579997ede3f219f8258252734dc08b2e925322500726

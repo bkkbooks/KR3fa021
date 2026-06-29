@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 表無測黃道經緯之正法其天頂立圈太近于地平其窺表不能測在地平相近之星夫天球而旣無星距無黃道等圈無宮次之分其地平無度數則器總歸于無用矣考古圭表之法其圭原偏而向地平其表更偏而離天頂又離正南北之線故仁以勾股之法修正之庻幾可免夫乖舛也巳
+  hash: sha256:a47ce851f0b83ec99ab543ad4fbfc8a460be4d058e549a1572d3f42990768557
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:39cbb056621c296629a57545db01c220c23a5d3e8e5b532822aca4dd7b223986

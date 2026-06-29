@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 制紀限儀甚重大側運之則必下垂而螺柱恐難以定固于半周弧外規加齒而立軸旁則加小軸其徑約二寸其圓靣棱齒與牛周齒相入又小輸同軸而另加全輸其全徑與小輸之徑如五與一與半周之徑如一與二蓋依舉重學之理轉運之而輕五倍也用此法則全儀不勞力而可側運矣定之則于立軸下端深入臺上端之圓孔因儀左右旋轉而窺測之目可無所不至矣臺約高四大其座約寬三尺從下至上有游龍蜿蜒以繞之而紀限曦之制于斯全焉
+  hash: sha256:a580265609941b1d4478d98b31915f58dde272127992b7d337ddc9745bcbfb3d
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:63fec5f854bec8b96fd74694d4ef855d6c7e02106149942c3dcde5b6977b99e6

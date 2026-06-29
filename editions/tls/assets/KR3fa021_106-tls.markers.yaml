@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/markers/106
+seq: 106
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa021_tls_001-p49.s1.1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup46, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg-start', offset: 3, content: '', id: KR3fa021_tls_001-p49.s1.2, seg_type: comm, member_ids: [KR3fa021_tls_001-p49.s1.2]}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3fa021_tls_001-p49.s1.2}
+  - {type: line-break, offset: 5, content: '', id: KR3fa021_tls_106-bkklb1}
+  - {type: 'tls:seg-end', offset: 7, content: '', id: KR3fa021_tls_001-p49.s1.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR3fa021_tls_001-p49.s1.3}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR3fa021_tls_001-p49.s2}
+  - {type: line-break, offset: 19, content: '', id: KX_2_dup49, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR3fa021_tls_001-p49.s3}
+  - {type: line-break, offset: 36, content: '', id: KX_3_dup49, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3fa021_tls_001-p49.s4}
+  - {type: line-break, offset: 53, content: '', id: KX_4_dup48, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR3fa021_tls_001-p49.s5}
+  - {type: line-break, offset: 70, content: '', id: KX_5_dup46, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR3fa021_tls_001-p49.s6}
+  - {type: line-break, offset: 87, content: '', id: KX_6_dup45, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3fa021_tls_001-p49.s7}
+  - {type: line-break, offset: 104, content: '', id: KX_7_dup45, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3fa021_tls_001-p49.s8}
+  - {type: line-break, offset: 121, content: '', id: KX_8_dup31, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR3fa021_tls_001-p49.s9}
+  - {type: line-break, offset: 130, content: '', id: KX_9_dup44, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 148, content: '', id: KR3fa021_tls_001-p49.s11}
+  - {type: line-break, offset: 148, content: '', id: KX_11_dup44, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR3fa021_tls_001-p49.s12}
+  - {type: line-break, offset: 165, content: '', id: KX_12_dup43, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 182, content: '', id: KR3fa021_tls_001-p49.s13}
+  - {type: line-break, offset: 182, content: '', id: KX_13_dup42, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR3fa021_tls_001-p49.s14}
+  - {type: line-break, offset: 199, content: '', id: KX_14_dup42, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 216, content: '', id: KR3fa021_tls_001-p49.s15}
+  - {type: line-break, offset: 216, content: '', id: KX_15_dup41, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3fa021_tls_001-p49.s16}
+  - {type: line-break, offset: 233, content: '', id: KX_16_dup28, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 250, content: '', id: KR3fa021_tls_001-p49.s17}
+  - {type: line-break, offset: 250, content: '', id: KX_17_dup28, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3fa021_tls_001-p49.s18}
+  - {type: line-break, offset: 267, content: '', id: KX_18_dup28, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 284, content: '', id: KR3fa021_tls_001-p49.s19}
+  - {type: line-break, offset: 284, content: '', id: KX_19_dup28, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  back: []
+hash: sha256:dd251f6e34ad232726a2cbd5d5c09bbfa32f93876b8cbe50d07d3221a1042d56

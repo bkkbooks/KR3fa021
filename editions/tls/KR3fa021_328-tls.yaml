@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/328
+seq: 328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 氣線及時刻纖毫不爽也若盂內無水則表影與本節氣線不對而大謬矣其照界節氣線日畧依常法空明氣中製之則表端與本節氣線難免有過不及之差今依氣水差表製之豈有表影與其所測之高度不相合者哉
+  hash: sha256:378e65fa734cfb85df3a2a92a4df97674e9f26a50c00f5e7950e176a6bc6bedb
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:34be1150ec1d871d5d79db5468b34a90101e388ee0ee1ec46cf21a3146ebf554

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 紀限儀之用赤道經緯儀之用黃道經緯儀之用天體儀之用新儀之適於用新儀體鉅極分秒之明晰新儀分法之細微新儀堅固之理新儀輕重比例之法
+  hash: sha256:0a3e61b59547462de29a2edd1e5bcc1463426aa90d4a8228a9daea87665da875
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:f84aef9f2b47f04df850cd1ad2858564bd3be7e6782f78265a7fe516205c5352

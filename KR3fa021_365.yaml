@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/365
+seq: 365
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一丈則第二秒內行三丈第三秒內行五丈第五秒內行七丈後行前行相并如第一秒之行一丈第二秒之行三丈則并之為四丈又第三秒之行五丈并于第二秒之行四丈則共得九丈又有八寸之垂線球於此其一往以來而相應則十微也設有物之重八兩者自高墜下則五十微內下行一丈其遁加倣此今依此比例之數列表入左八寸垂一一二二線球單行五五五相秒一二三四應微五四三二一重物分行丈數一三五七九重物總行丈數一四九一二六五不平分數一三五七九
+  hash: sha256:78d591b018bdc9320d5d994b33ca2413d1df46fe5ff20919a32becc849804a4b
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:45ef5688c0a0b3ae3d08c4080906e985adf3b6bb30d6d21577c543f2ee54c50f

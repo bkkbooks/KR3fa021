@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/200
+seq: 200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 居空際也如二十五圖丙為地中心甲乙丙分各為之半球甲東降就其心乙西亦降就其心兩半球又各有本體之中心如丁如戊甲東降必欲令本體之重心丁至丙中心然後止乙西降必欲其本體之重心戊至丙中必然後止故兩半球相遇于丙中心甲不令乙得東乙不令甲得西一衝一逆勢力均平遂兩不進亦兩不能退而懸居空際安然永奠矣譬有一門于此二人出入在外者衝欲開之在內者逆欲閉之一衝一逆為力均平門必不動甲乙半球其理同也至四方八面一塵一土莫不皆然隤然下凝職此之由也
+  hash: sha256:9055b3247b301cd5aee28d2884e58bb0d974a8eef0665773e1797bfb2f9b0f66
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:8635ced54c1acc6d860ad0ff5ad0fd8af1681ccebd0075a683216e74e3a36b59

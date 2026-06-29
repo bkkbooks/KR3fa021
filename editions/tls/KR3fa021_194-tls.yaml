@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/194
+seq: 194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十一分之九分則蠟球包含銅球之大約九倍半其餘比例皆倣此
+  hash: sha256:a8697b6afc800a9b3b9ddf3d798119d5f56905ec0fb0d8dfe34e272293e7cfc3
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:5fdf504fadf7576dcaed827ad23c03f8097e66f5ce4f5caba1e1cfc5e6eb4bdf

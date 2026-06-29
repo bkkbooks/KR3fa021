@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 測看之旨越明年巳酉春正月初三日是日立春諸公卿銜命僉同視測隨蒙議政王大臣會題疏內有奉旨差出大臣赴觀象臺測驗立春雨水太隂火星木星南懷仁測驗與伊所指儀器逐欸皆符吳明烜測驗逐欸皆錯南懷仁測驗旣巳相符應將康熙九年一應厯日交與南懷仁推筭等語隨奉有南懷仁授欽天監何官着禮部議奏
+  hash: sha256:a3e2481ddaa1835475d27caac8cfdcbf554114fefdc7f699b4197468be8a124b
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:8ad9ac91e2d4a8136e24cead7c7fca3f98a34d6ff470f182b17905316f712429

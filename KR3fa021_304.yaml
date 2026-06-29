@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/304
+seq: 304
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新制靈臺儀象志卷之四左監副劉蘊德筆受治理厯法西南懷仁纂著春官正孫有本詳受秋官正徐瑚詳受
+  hash: sha256:5e646a270dfa6e8db6a0c6aaa6efe25c75dd6b372cf28255252b67def11148ee
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:acaf3ed909c993afb8f2f11fc7ca81c02c6017b7845e5f80c1d3e4fceb02475f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之旨是年秋八月復蒙部議新造儀器併安設臺基俱照南懷仁所指式樣奉有依議之旨仁自受命以來夙夜祇懼畢智竭能務求精乎儀象之有利於用而以密測天行貽為典則此愚分之所矢素心自盡者也難然儀象之作蓋以定永遠之明徵而使後世有以私智自用者無所騁其臆說則其事可易言也哉是何也夫諸儀有作之法有安之法有用之法
+  hash: sha256:41e40153d2d00451615942afab0129ca8223640bae4df89aa9830369da00b7e8
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:57adc0c5cb716627019455751bdc79f0153dcdfcc217605dc422c939c196c85b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/1199
+seq: 1199
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤道經緯儀表恒星之本行自西而東以黃道極爲本動之舊焉故其經度每年加有一定之秒數而緯度則從古迄今未之有變也至其赤道之經緯度皆有移易則有時加時减之秒㣲而其加减則每年多寡彼此有同有不同之數也其所以然之故詳載新法恒星厯指諸書今從春分赤道兩交起筭將週天有名之數星而以康熙癸丑歲所歷天上赤道之經緯度立表又本表之後仍載有每年應加减分秒若干而依比例法可以類推相近諸星應加减之數凡此加减諸數皆從歴年中比例可推而定焉
+  hash: sha256:53e4f5c59086402b2139c6b7e323f6f8344680ddae166ffa72356fe5b7cf7abe
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:34f23109ad956dae8658b0c87a5396f9d9c5b7f8d24f97de2166ef79b979319a

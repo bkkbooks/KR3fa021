@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/655
+seq: 655
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從八品博士加一級鮑英華治理厯法極西南懷仁纂著秋官正張問明同受博士窖完璧地平儀表北極出地三十四度三十六度三十八度三十九度五十五分
+  hash: sha256:5981dc33e05ac1918a14a98208acc695d85b49b0040bff7866dc726008f8378f
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:7bdf2ae656c9267aadbcb64d6867d113af253031e27bcaf8a592fd19bf3d32b5

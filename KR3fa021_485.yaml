@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/485
+seq: 485
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地平儀表地平儀表者以地平儀之某經緯度而推象時刻又以某時刻而推測太陽所離地平之某經緯度也夫測太陽所離地平經緯度總以極高度及赤道緯度為主故地平儀表天下各省不同因各省北極高卑度之不同故也其查表法以右直行之緯度與上列之刻數縱橫查之如數有多寡之不同則用中比例法而推定之內北極出地三十九度五十五分者二一為經度分為緯度分京師之高度也其餘各省本教歲經度靣緯度則見交分數
+  hash: sha256:824e4b7c67b5ef211b3bd7814b4b8a9d05579a23633d45095ca472a0a8383767
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:5af167d08edd6bed0a116d4457172e44c7ee055f2165143ffc8380f1f3e81cae

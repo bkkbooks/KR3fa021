@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/160
+seq: 160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左右上下皆可推移而安對之雖一分秒之細微亦不淆也天體別有輪法以消息之縱有五千斤之重而一人用四斤之力卽可旋轉如意以測夫天下各省北極之高度總之用法無不可通故卽此一儀之地平亦卽可以爲天下各省之地平而用之以測騐渾天之象焉
+  hash: sha256:cf55e0e4445e23eb528ca7100a2bdd2ba0855e2ca99fad0c2314cec03c695b45
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:d3513fe63bf66c904782b71e45d05dea13fbd439a13db678662c108da51d9264

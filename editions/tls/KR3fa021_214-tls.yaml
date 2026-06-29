@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/214
+seq: 214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圈四面相對之半徑皆出于一球之中心此作儀之難也然而儀之合天之細微亦卽在此如天球黃赤各儀安于子午圈南北兩軸若其軸纖毫不對於子午圈之中心則球必偏于東西葢照子午圈正面於球面上下相對處畵線而轉球令上變下則上相對時下必有過不及之差欲正之必須那移南北之軸子午圈向內向外以其過不及之差若干爲主汯曰依此全差四分之一而那軸則得其宜其畵圈度數分秒等線之規短并取直取平取方取圓等比例尺甚繁一併繪圓見於別卷
+  hash: sha256:1d4062881168e1743e98119d87188354ee8e6e9c22e51487506b101df5a867dc
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:dd7d7e77a52fa38d74c431e27ca865f6b3e0fb63132564099c0c3d79ba96958d

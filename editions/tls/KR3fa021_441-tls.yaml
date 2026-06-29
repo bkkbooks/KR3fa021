@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/441
+seq: 441
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時刻之分及赤道並地平度分相應表天體儀之地平圈局列有京師地平日畧之時刻分可以對本儀與天元地平四正之方向其法查本日太陽所罍之度分而以其經過南北之弧正對太陽次于南北弧線之上立直表靣東西轉動本儀務令表之左右無景其本弧線所交地平日畧之刻分卽所求本日之时刻分也葢此地平日畧係細分之規也其每刻之分數相對于赤道並地平度分乃依曲線三角形之理而推定之列表如左以爲各地平大小日畧之凖則焉
+  hash: sha256:369398d0cce4c222281078ca914fabb6f6b0d69de11f52239ddc8c01fda6e2d7
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:caf8d8e29b3167ca46a909dd082ca20b639398f8bf6dc2d252c6bfb11fbfcbbe

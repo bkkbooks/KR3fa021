@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/190
+seq: 190
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 異色之體輕重比例表此表之用法有二其一求兩等太異色體之輕重差其一求兩異色等重體之大小差兩法從先所引輕重學之一題而生若求兩體輕重之差則以其輕體者當一或斤兩等分若球本體大小之差則以其重者當一假如球蠟與銅輕重之差蠟比銅輕則蠟當一而
+  hash: sha256:062bc8ada07c56fc03be555500b918de1b8be54d12359761fc343290eac15714
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:f2465c0bb9c2c6aa489d3c93a7391b3ec04aa069356965248e3b3abb428b100f

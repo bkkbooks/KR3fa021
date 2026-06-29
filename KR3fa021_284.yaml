@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大小圈度相應表
+  hash: sha256:4ee355754024f74f7ab685ff3bc805684058c1f78ab422b034e5901f9eebe387
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:e12755fc4dd8042ecd296ed2b03e9b9816724497ce5584fd76661a20ab4a3786

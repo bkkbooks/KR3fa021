@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/188
+seq: 188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 體或立方體權之得其輕重之差以為比例之根率如下表縱橫兩行列諸色之體名上邊之橫行從最重起至最輕止邊之縱行從最輕起至最重止縱橫兩行相遇之方位所得之數即兩同類異色之體輕重之比例也
+  hash: sha256:11edfbcec54d1aab538190f07ce91656df0f26bd39727b4e47653e839fc80b4e
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:902ecf12dcc049ede7dcb977e0a7b7ec06e99704dfa196691f83431ccb754163

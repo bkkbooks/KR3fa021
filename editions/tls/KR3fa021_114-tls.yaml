@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/114
+seq: 114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 焉故兩輪互相爲用一人左右轉柄軸則天體隨之進退其北極任上下於地平圈而依各省之本度也夫地平圈切用之處在于平分天體之兩半而天體左右不拘何以旋轉而其周靣上所劃在黃赤等大圈者半必在地平只上半必在地平之下而分秒無差故其承儀之座架南北二方有二螺旋轉以便用任天體上下於地平若干之度分無不可以對照焉外此著有黃赤二道南北兩總星圖并簡平規總星圖解葢互相祭也
+  hash: sha256:f1818f990be75c4223590fc9d120129da2f0315c0bdd74e70b0196a822eceadb
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:861b164eb4aaf9c3422b5fa749422c5cfcb3b78010105e5a73bfa44c5fcf9728

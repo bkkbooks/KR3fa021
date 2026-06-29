@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/483
+seq: 483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新製靈臺儀象志卷之六博士加一級孫有容治理厯法極西南懷仁纂著厯科供事鮑英齊同受博士焦秉貞地平儀表北極出地二十二度二十四度二十六度二十八度三十度三十二度
+  hash: sha256:c226cd0fc0cd276fccd3f6b430c5bdb5853ea832514ce44802d41b9dafd6b225
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:c362d112be43ccd52d46a639826f491237125f1ae53177e1863bab00cf133b17

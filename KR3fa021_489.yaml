@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/489
+seq: 489
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本表內地平經度俱從正東正西起算而定凡遇縱格之粗線其在線右者係向南之度其在線左者係向北之度
+  hash: sha256:52691b2a7ea74ac6d31565841956bcf824881eab200e89d76bd0bc21756092cd
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:6a88e11cd08f2b143a2b6c079e7df66238ebf080b81ce44596eb7dd17972bc84

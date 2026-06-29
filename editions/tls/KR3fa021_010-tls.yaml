@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 壞矣康熙七年戊申冬十有二月洪惟我皇上乾綱獨運離炤無私特下明綸有厯法關係重大着議政王貝勒大臣九卿科道掌印不掌印官員會痛確議具奏之旨隨蒙會議題請卽奉有着圖海李霨多諾吳格塞布顏明珠黃機郝惟納王熙索額圖柯爾科代董安國曹申吉王清葉木濟吳國龍李宗孔王曰高田六善徐越等厺
+  hash: sha256:c3607ab289c98ac27833ea7a4b565ef6b686871a43b859175e1f3a1c3cb7f8ee
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:693e89fdfc392b1d792728fa3e94ca2989884b0e6738f910b58bfcee80449249

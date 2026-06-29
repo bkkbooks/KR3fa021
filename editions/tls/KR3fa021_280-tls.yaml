@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/280
+seq: 280
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 及則照上法應用比例以推之第五題以正南北東西度求其里數正東西在赤道下與正南北度皆大圈之度其每一度當二百五十里若在赤道外而與赤道平行則以大小圈度相應表推其里數其大小圈皆依三百六十平行爲度但各圈之度不等必隨其圈之大小爲則又小圈距中大圈愈遠得度愈狹故必以南北緯筭表乃可也于初行載諸緯度次二行載諸緯小圈所應一度之分秒因而緯圈分秒漸小其所量小度亦更小以至近極之一小度得對大圈度之一分耳
+  hash: sha256:659ec57b19caa1adf3dbbc242a4f702065951e3f6e1f964b151fc58dfb3c9756
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:539ea71f9cc0c2c171a21d1b6335cf522bea1f35088c9e6354414fa4b848845a

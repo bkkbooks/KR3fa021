@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/252
+seq: 252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 即星高度之餘弧因而推知巳癸戊角兩角之大减于小而餘數平分隨筆記之次於原南北之線為心而用窺儀東西作大圈之弧兩弧以對角線之法細分度數分秒然後將上所筆記分秒而加於南北線之東西以為原移攺之界蓋若某星向所測午前之高弧大則從本圈之中心引線至東方界若干後之高弧大則引線至西方界以此較定分界之線而比正南北之線則必合而無疑矣
+  hash: sha256:f620fb8e5456887f684dacf2edb056a953b708f4b0aa009ff3fc571ae842ddc9
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:1e204a5a106ed74efaffdc45edf9f8f1864d2715aaede98fdfd444bf25eb94cc

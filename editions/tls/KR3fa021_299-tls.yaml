@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/299
+seq: 299
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地靣上度分秒變爲里數表圖
+  hash: sha256:23ab059feb11c3fa24dc8911d6b6eb056c4030ac83340b2f3f7b573061eb04ac
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:56f555777dc1c9b3cfb56423a195201d81d90ef31fa21d23d01bd674d2a24af5

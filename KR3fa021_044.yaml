@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新儀之重心向地之中心新儀座架之法製儀之器與法新儀運用莫便於滑車新儀用輪相連以便運動新儀用螺旋轉以便起動第三卷新儀安置之法並摘指南針之誤大地之方向并方向之所以然
+  hash: sha256:f84650f0c58fbff6e1452a9295388a023312848cd4e047e0219140c92b12bdc9
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:ee4ad4a015f491f2229b1186786b09461aabc636acbf18477d85737f5f6c2f33

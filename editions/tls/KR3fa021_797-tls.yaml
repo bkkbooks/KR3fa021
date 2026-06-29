@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/797
+seq: 797
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新製靈臺儀象志卷之八博士加一級鮑選治理厯法極西南懷仁纂著主薄殷鎧同受博士張登科黃赤二儀表降婁宮至娠訾官
+  hash: sha256:29e0e14503e248d5580f177c976fc80f6b1a0eb524a3cef8820d626b09bcebdd
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:d95591fb0b2de9a43e59ff8db7bf5e089e711434c47f727c6924a464e6fbc04b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/260
+seq: 260
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 安赤道之經緯儀而于本時刻測太陽離正午或東或西若干度分並所值時刻轉儀至先所立表無射影處見十七圖若儀上北極過所安時圈之刻分數凖合于赤道儀上分數則本儀方向必正矣若欲依恆星定方向則照前法必須兩人同測一人用赤道圈表于某時刻測某星相去午正或東或西若干刻分一人用天體上時圈表于本時刻對齊于某星若兩圈上相去午正之刻分相同則儀之方向又正矣夫紀限儀能應天上東西南北正斜諸圈自無不定之方向其安法以座架正豎立不偏為凖也
+  hash: sha256:1af228feab9b5e8611e83906162230c29293039fd232353881b4451c497f7c13
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:fce3552c8c2a7cda984014d27af7c2250f91d1e90e1fdb8d9e8cbbab99d1fdf1

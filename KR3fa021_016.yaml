@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa021/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三法備而後諸法可次第舉也况夫測天之儀貴恰肖乎天本然之象故其造法亦必以天象為凖但廣大莫如天也覆冒無外輕清莫如天也健駛難形堅固微妙莫如天也運行終古而無虧經緯秩然而不紊使非會通而得其全乃漫云吾以制器也則必得此而失彼挂一而漏萬竊恐廣大輕清堅固微妙之四者未有能兼備而無遺者矣說者曰儀之體制巨則合天為易固巳然所謂巨者其徑
+  hash: sha256:14f680f371d535501e62003022558097c6c672fdee3f97616f4c29122ac90522
+metadata:
+  title: 新制靈臺儀象志
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa021.xml
+hash: sha256:a458e57c6f1279d85d45c7d19a370e769868c20914e921044b0582d3982fe9ba
