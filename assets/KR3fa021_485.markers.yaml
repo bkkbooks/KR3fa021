@@ -14,7 +14,6 @@ markers:
   - {type: line-break, offset: 38, content: '', id: KX_4_dup168, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 55, content: '', id: KR3fa021_tls_001-p245.s5}
   - {type: line-break, offset: 55, content: '', id: KX_5_dup166, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 64, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 72, content: '', id: KR3fa021_tls_001-p245.s6}
   - {type: line-break, offset: 72, content: '', id: KX_6_dup163, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 89, content: '', id: KR3fa021_tls_001-p245.s7}
@@ -25,9 +24,7 @@ markers:
   - {type: line-break, offset: 123, content: '', id: KX_9_dup158, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg-start', offset: 129, content: '', id: KR3fa021_tls_001-p245.s9.2, seg_type: comm, member_ids: [KR3fa021_tls_001-p245.s9.2]}
   - {type: 'tls:seg', offset: 129, content: '', id: KR3fa021_tls_001-p245.s9.2}
-  - {type: substitution, offset: 145, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 149, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: line-break, offset: 153, content: '', id: KR3fa021_tls_485-bkklb1}
   - {type: punctuation, offset: 176, content: □, id: KR3fa021_tls_485-bkkpn2}
   back: []
-hash: sha256:7246e1d4b930087e81995d3c432ca6368dd2c2589f3dbe556705c01129845fef
+hash: sha256:11432eb4f452fa731a54c83d628e0a333e9a66f327782e61efd2543951429bf2

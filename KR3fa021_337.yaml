@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 分在某日某時刻乎四地氣本乎地勢或俊山或近江湖常有變换又有風雨雲霧皆能變易地氣春分之日全慿太陽交赤道度距地甚遠輿地何涉豈可以多變之地氣測驗不變之春分也
-  hash: sha256:95ba8663a5f0c386f9d2a55135123013d30ce1ff82540c0ccff4057522fa2d34
+  text: 分在某日某時刻乎四地氣本乎地势或俊山或近江湖常有變换又有風雨雲霧皆能變易地氣春分之日全慿太陽交赤道度距地甚遠舆地何涉豈可以多變之地氣測驗不變之春分也
+  hash: sha256:064039d48d6cfb47485ff309505aba44c374a27bf3e84ce8f1a432d540858c47
 metadata:
   title: 新制靈臺儀象志
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa021.xml
-hash: sha256:1a09751f3bb92f53c456932367931eecd6ab20b80935ae450b484c64e8b4b89e
+hash: sha256:114955659ca2aefe1113d8103c9ece61fde4dbe752cf9124f3918c90526186be

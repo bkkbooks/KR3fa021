@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 氣線及時刻纖毫不爽也若盂內無水則表影與本節氣線不對而大謬矣其照界節氣線日略依常法空明氣中製之則表端與本節氣線難免有過不及之差今依氣水差表製之豈有表影與其所測之高度不相合者哉
-  hash: sha256:9aa628bed5a9bf86eb5856ad2ef4ea936860421f519e5af3093b6ba40d431864
+  text: 氣線及時刻纖毫不爽也若盂內無水則表影與本節氣線不對而大謬矣其照界節氣線日畧依常法空明氣中製之則表端與本節氣線難免有過不及之差今依氣水差表製之豈有表影與其所測之高度不相合者哉
+  hash: sha256:378e65fa734cfb85df3a2a92a4df97674e9f26a50c00f5e7950e176a6bc6bedb
 metadata:
   title: 新制靈臺儀象志
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa021.xml
-hash: sha256:c9cfaa2e482100403e06046bc6fac7aa2d3359f0bdac1b435adbe5e6fc8b7d20
+hash: sha256:34be1150ec1d871d5d79db5468b34a90101e388ee0ee1ec46cf21a3146ebf554
