@@ -5,9 +5,10 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa021_tls_001-p247.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup174, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 14, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fa021_tls_001-p247.s2}
   - {type: line-break, offset: 17, content: '', id: KX_2_dup174, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3fa021_tls_001-p247.s3}
   - {type: line-break, offset: 34, content: '', id: KX_3_dup171, _xml_error: duplicate-id, _xml_original_id: KX_3}
   back: []
-hash: sha256:755b153faacb38e64d538aa1ef666d1519e9821001f0570e2249038412787d53
+hash: sha256:35ec50f809647609e5532e46f33e8bbdc57759b79cbd3d9179199b67a3bfbfee

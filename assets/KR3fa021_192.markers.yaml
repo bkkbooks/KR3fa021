@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 85, content: '', id: KX_6_dup82, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 102, content: '', id: KR3fa021_tls_001-p90.s7}
   - {type: line-break, offset: 102, content: '', id: KX_7_dup81, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 105, original: 噐, replacement: 器, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19686}}
   - {type: 'tls:seg', offset: 119, content: '', id: KR3fa021_tls_001-p90.s8}
   - {type: line-break, offset: 119, content: '', id: KX_8_dup66, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 136, content: '', id: KR3fa021_tls_001-p90.s9}
@@ -34,6 +35,7 @@ markers:
   - {type: line-break, offset: 194, content: '', id: KX_13_dup74, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 211, content: '', id: KR3fa021_tls_001-p90.s14}
   - {type: line-break, offset: 211, content: '', id: KX_14_dup73, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 223, original: 鉄, replacement: 鐵, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19416}}
   - {type: 'tls:seg', offset: 228, content: '', id: KR3fa021_tls_001-p90.s15}
   - {type: line-break, offset: 228, content: '', id: KX_15_dup70, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 245, content: '', id: KR3fa021_tls_001-p90.s16}
@@ -45,4 +47,4 @@ markers:
   - {type: 'tls:seg', offset: 296, content: '', id: KR3fa021_tls_001-p90.s19}
   - {type: line-break, offset: 296, content: '', id: KX_19_dup55, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:9b179ddf30c70da71433b8541304349d34ac2713c9c6f8335bc04fafd8bea6b5
+hash: sha256:00122b353e533da0ae16e4059f4cbd62426a8d505909d34fa17f99e5f7430971

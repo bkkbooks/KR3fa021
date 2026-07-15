@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 諸曜出入地平蒙氣廣度差表諸曜出入地平必在蒙氣之中故其出入之廣度有加分有减分北加而南减多寡不等依各地北極之高度多寡不等也今依蒙氣之高差最大者三十四分而推其出入廣度之差分悉照各方極之出地之高度列表如左
-  hash: sha256:85afbb4ed5d5e1b282aa864edc41b42b2a85c6c6d9936ab2f9e5a24c856ff284
+  text: 諸曜出入地平蒙氣廣度差表諸曜出入地平必在蒙氣之中故其出入之廣度有加分有減分北加而南減多寡不等依各地北極之高度多寡不等也今依蒙氣之高差最大者三十四分而推其出入廣度之差分悉照各方極之出地之高度列表如左
+  hash: sha256:75c6a47f8023534890c63a5d6df27691e4c4af38aff654b63d28c8845fb0cb18
 metadata:
   title: 新制靈臺儀象志
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa021.xml
-hash: sha256:206c5eaaf1d460dff6f0bf68a8c864bc00154eb6dd012a203f207ca12794b17b
+hash: sha256:0ee0a6f863fcc16c5c84f2255cac2238941a72fa4d2b4c6c1e9ef18b8e583be5

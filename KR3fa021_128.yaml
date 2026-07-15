@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 本星在赤道宻近難以軸中心表對之則用負圈角表定于緯圈之第十度上在赤道或南或北次以通光游表對之葢游表距相對之十度若干度分之數則减其半卽爲某星之緯度分也
-  hash: sha256:fb35fcde39326bbaccea4cdd5320deb42df0ca6727438eee25acceab23ccf061
+  text: 本星在赤道密近難以軸中心表對之則用負圈角表定于緯圈之第十度上在赤道或南或北次以通光遊表對之蓋遊表距相對之十度若干度分之數則減其半即為某星之緯度分也
+  hash: sha256:8e224c6980f6fb07e1cf13e75f06b046ad83d3466a1826c0f7c444ce31b0f94e
 metadata:
   title: 新制靈臺儀象志
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa021.xml
-hash: sha256:6fd8fe72bcc61945f6e7826371ea7b3d42bf29f756b672b690f284f445912ff0
+hash: sha256:97d851732e6e3a236949458a61620b88fc1db6e1962409d120e653293b969c0d

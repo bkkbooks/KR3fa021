@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 厘其垂線爲小圈相連之銅鎖县垂線之長短其重之分兩又埀球之分兩皆須預知而凖定使毫不差失而器於是乎全巳
-  hash: sha256:848104219550c12139a5b3f31264a56b766e4ec98e38767c33ed95d133548b91
+  text: 釐其垂線為小圈相連之銅鎖縣垂線之長短其重之分兩又埀球之分兩皆須預知而凖定使毫不差失而器於是乎全巳
+  hash: sha256:969185c494a590d7aff0e0d344b2768c277e42e92af9d0cd7b77672452e09403
 metadata:
   title: 新制靈臺儀象志
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa021.xml
-hash: sha256:447a48082d2a34538a60985c2ebf2f8bc992c898ef531b5766c8c9016cc544b8
+hash: sha256:51a8d2f5458b17c51113c060916f71970026a597fcdd225f23fddd1ebde1b3ac
